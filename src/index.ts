@@ -1,2 +1,2 @@
-export { Permission } from './domain/objects/Permission';
+export { Permission, PermissionEffect } from './domain/objects/Permission';
 export { decideIsPermissionGranted } from './logic/decideIsPermissionGranted';
