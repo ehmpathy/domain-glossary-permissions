@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/ehmpathy/domain-glossary-permissions/compare/v1.0.1...v1.0.2) (2025-06-23)
+
+
+### Bug Fixes
+
+* **contract:** expose PermissionEffect publically ([680d310](https://github.com/ehmpathy/domain-glossary-permissions/commit/680d310965b614d33dd900401e3204dfbdf20576))
+
 ## [1.0.1](https://github.com/ehmpathy/domain-glossary-permissions/compare/v1.0.0...v1.0.1) (2025-06-23)
 
 
