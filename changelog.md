@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/ehmpathy/domain-glossary-permissions/compare/v1.0.0...v1.0.1) (2025-06-23)
+
+
+### Bug Fixes
+
+* **pkg:** export dobjs and procedures via index ([ec91211](https://github.com/ehmpathy/domain-glossary-permissions/commit/ec9121145a88eb9fd95b1b21f08e5aa1f339e606))
+
 ## 1.0.0 (2025-06-23)
 
 
